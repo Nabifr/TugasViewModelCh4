@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data Film</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+</resources>
